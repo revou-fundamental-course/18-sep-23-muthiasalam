@@ -365,6 +365,7 @@ footer{
     margin: 100px 0 100px 0;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 .closing p{
